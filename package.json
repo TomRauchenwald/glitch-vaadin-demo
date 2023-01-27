@@ -2,7 +2,6 @@
   "name": "unifits-explorer-frontend-login",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
   "type": "module",
   "scripts": {
     "start": "vite",
@@ -12,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "12.x"
+    "node": "16.x"
   },
   "glitch": {
     "projectType": "generated_static",
